@@ -1,0 +1,2 @@
+git basic practice
+Ghi chu thuc hanh Git bai 2.
